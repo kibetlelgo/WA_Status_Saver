@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">WA Status Saver</string>
+    <string name="photos">Photos</string>
+    <string name="menu_videos">Videos</string>
+    <string name="menu_saved">Saved</string>
+    <string name="follow_me_on_instagram">Follow me on Instagram</string>
+    <string name="videos">Videos</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="about">About</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="saved">Status saved, click to see!</string>
+    <string name="no_photos_available">No Photos available :(</string>
+    <string name="an_error_occured">An error occurred!</string>
+    <string name="no_videos_available">No videos available :(</string>
+    <string name="saved_s">Saved successfully!</string>
+    <string name="save_s_long">Saved in /Pictures directory.</string>
+    <string name="error">Error</string>
+    <string name="error_long">An Error occurred while saving, try again!</string>
+    <string name="save_s_long_video">Saved in /Movies folder.</string>
+    <string name="privacy_infos">Third Party Librarys</string>
+    <string name="alert_libs_title">Third Party Librarys</string>
+    <string name="storage_access">Storage access</string>
+    <string name="alert_long">In order to use this app we need to get storage access permissions from you to access status posts.\nAll files will be stored local and will NOT be uploaded or shared with anyone else.</string>
+    <string name="cancel">Cancel</string>
+    <string name="toast_no_permissions">This app can\'t work without storage permissions!</string>
+    <string name="storage_access_required">Storage access required!</string>
+    <string name="allow">Allow</string>
+    <string name="error_contact_dev">Something went wrong, try again or contact the developer!</string>
+</resources>
